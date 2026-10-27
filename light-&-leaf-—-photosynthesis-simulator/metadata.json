@@ -1,0 +1,8 @@
+{
+  "name": "Light & Leaf — Photosynthesis Simulator",
+  "description": "Interactive desktop scientific simulator modeling how sunlight intensity, carbon dioxide, temperature, and water availability govern photosynthetic rate, oxygen evolution, and limiting factors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
